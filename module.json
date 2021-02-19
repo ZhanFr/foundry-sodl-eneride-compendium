@@ -1,0 +1,121 @@
+{
+    "name": "eneride-sotdl-compendium",
+    "title": "Eneride Compendium (SotDL)",
+    "description": "A module that adds Eneride homebrewed content for SotDL games. Classes, subclasses, races, spells, items, etc.",
+    "author": "Zhan",
+    "version": "0.1.0",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9",
+    "url": "https://github.com/ZhanFr/foundry-sodl-eneride-compendium",
+    "download": "https://github.com/ZhanFr/foundry-sodl-eneride-compendium/archive/main.zip",
+    "system": "dnd5e",
+    "manifest": "https://raw.githubusercontent.com/ZhanFr/foundry-sodl-eneride-compendium/main/module.json",
+    "readme": "https://github.com/ZhanFr/foundry-sodl-eneride-compendium/blob/main/README.md",
+    "changelog": "https://github.com/ZhanFr/foundry-sodl-eneride-compendium/blob/main/CHANGELOG.md",
+    "packs": [
+        {
+            "name": "armes",
+            "label": "Armes",
+            "entity": "Item",
+            "path": "packs/armes.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "armures",
+            "label": "Armures",
+            "entity": "Item",
+            "path": "packs/armures.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "ascendances",
+            "label": "Ascendances",
+            "entity": "Item",
+            "path": "packs/ascendances.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "bestiaire",
+            "label": "Bestiaire",
+            "entity": "Actor",
+            "path": "packs/bestiaire.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "equipements",
+            "label": "Equipements",
+            "entity": "JournalEntry",
+            "path": "packs/equipements.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "humanoides",
+            "label": "Humanoïdes",
+            "entity": "Actor",
+            "path": "packs/humanoides.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "inventaire",
+            "label": "Inventaire",
+            "entity": "Item",
+            "path": "packs/inventaire.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "langues",
+            "label": "Langues",
+            "entity": "Item",
+            "path": "packs/langues.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "metiers",
+            "label": "Métiers",
+            "entity": "Item",
+            "path": "packs/metiers.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "sorts",
+            "label": "Sorts",
+            "entity": "Item",
+            "path": "packs/sorts.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "talents",
+            "label": "Talents",
+            "entity": "Item",
+            "path": "packs/talents.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "traditions",
+            "label": "Traditions",
+            "entity": "JournalEntry",
+            "path": "packs/traditions.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        },
+        {
+            "name": "voies",
+            "label": "Voies",
+            "entity": "Item",
+            "path": "packs/voies.db",
+            "system": "demonlord",
+            "module": "eneride-sotdl-compendium"
+        }
+    ]
+}

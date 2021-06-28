@@ -18,7 +18,6 @@
             "label": "Armes",
             "entity": "Item",
             "path": "packs/armes.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -26,7 +25,6 @@
             "label": "Armures",
             "entity": "Item",
             "path": "packs/armures.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -34,7 +32,6 @@
             "label": "Ascendances",
             "entity": "Item",
             "path": "packs/ascendances.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -42,7 +39,6 @@
             "label": "Bestiaire",
             "entity": "Actor",
             "path": "packs/bestiaire.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -50,7 +46,6 @@
             "label": "Equipements",
             "entity": "JournalEntry",
             "path": "packs/equipements.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -58,7 +53,6 @@
             "label": "Humanoïdes",
             "entity": "Actor",
             "path": "packs/humanoides.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -66,7 +60,6 @@
             "label": "Inventaire",
             "entity": "Item",
             "path": "packs/inventaire.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -74,7 +67,6 @@
             "label": "Langues",
             "entity": "Item",
             "path": "packs/langues.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -82,7 +74,6 @@
             "label": "Métiers",
             "entity": "Item",
             "path": "packs/metiers.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -90,7 +81,6 @@
             "label": "Sorts",
             "entity": "Item",
             "path": "packs/sorts.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -98,7 +88,6 @@
             "label": "Talents",
             "entity": "Item",
             "path": "packs/talents.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -106,7 +95,6 @@
             "label": "Traditions",
             "entity": "JournalEntry",
             "path": "packs/traditions.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         },
         {
@@ -114,7 +102,6 @@
             "label": "Voies",
             "entity": "Item",
             "path": "packs/voies.db",
-            "system": "demonlord",
             "module": "eneride-sotdl-compendium"
         }
     ]
